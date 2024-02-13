@@ -1,4 +1,0 @@
-#Sat Sep 10 17:22:03 EET 2022
-base.0=/home/erhy/project/weather_app_ins/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
